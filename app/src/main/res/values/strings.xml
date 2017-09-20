@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="cedula">Cédula</string>
+</resources>
