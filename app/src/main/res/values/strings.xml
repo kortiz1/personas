@@ -9,6 +9,7 @@
     <string name="numero">Numero</string>
     <string name="listar">Listar Personas</string>
     <string name="crear">Crear Personas</string>
+    <string name="mensaje_exitoso">Personas Guardadas Con Exito!</string>
     <array name="opciones">
       <item>@string/crear</item>
         <item>@string/listar</item>  }

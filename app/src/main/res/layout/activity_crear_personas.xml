@@ -60,6 +60,7 @@ tools:layout_editor_absoluteY="8dp"><![CDATA[
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:onClick="guardar"
         android:text="@string/guardar" />
 
     <Button

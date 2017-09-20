@@ -14,7 +14,7 @@ public class Datos {
         personas.add(p);
     }
 
-    public static ArrayList<Persona> obetener(){
+    public static ArrayList<Persona> obtener(){
         return personas;
     }
 
