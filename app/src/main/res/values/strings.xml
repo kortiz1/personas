@@ -2,4 +2,9 @@
     <string name="app_name">Personas</string>
     <string name="agregar">AGREGAR</string>
     <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="limpiar">limpiar</string>
+    <string name="numero">Numero</string>
 </resources>
