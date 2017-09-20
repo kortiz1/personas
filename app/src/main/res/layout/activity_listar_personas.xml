@@ -50,9 +50,6 @@
             android:textSize="18sp"
             android:textStyle="bold" />
     </TableRow>
-    <![CDATA[
 
-
-]]>
 </TableLayout>
 
